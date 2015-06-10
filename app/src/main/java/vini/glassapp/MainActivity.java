@@ -54,6 +54,7 @@ public class MainActivity extends FragmentActivity implements
     private static final String DIALOG_ERROR = "dialog_error";
 
     //connect to google drive api and oAuth
+    // using oAuth upload the files to google Drive
 
     private GestureDetector mGestureDetector;
     /**
