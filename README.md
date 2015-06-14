@@ -1,15 +1,18 @@
 # Scan-Glass
 
-Automate the process of scanning , uploading and archiving the receipts  
+I created this App as a solo project at HackReactor, I wanted to automate the process of scanning , uploading and archiving the receipts to the cloud 
 
-Scanning and uploading the receipts to the cloud with voice activation integrated into the application. From Receipts to cloud just in seconds using the app.
 
 Table of Contents
 
-Requirements
+Scan-Glass
 Development Technologies
 Contributing
 Usage
+
+Scan-Glass
+
+Scanning and uploading the receipts to the cloud with voice activation integrated into the application. From Receipts to cloud just in seconds using the app.
 
 Development Technologies
 
